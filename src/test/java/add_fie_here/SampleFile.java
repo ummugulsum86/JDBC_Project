@@ -5,5 +5,8 @@ public class SampleFile {
         System.out.println("EU3 is opening pull request");
         //commit change
         //push to github
+
+        //we are eu3
+        //we are awesome
     }
 }
