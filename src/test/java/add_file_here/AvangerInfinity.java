@@ -5,5 +5,6 @@ public class AvangerInfinity {
     public static void main(String[] args) {
         System.out.println("Iron man");
 
+        System.out.println("Spider-man");
     }
 }
