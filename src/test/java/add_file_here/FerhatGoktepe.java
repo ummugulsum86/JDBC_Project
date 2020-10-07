@@ -7,4 +7,6 @@ public class FerhatGoktepe {
     // We now are working on IntelliJ Environment.
 
     // Now adding more changes to have more history.
+
+    // continue to make more commits.
 }
