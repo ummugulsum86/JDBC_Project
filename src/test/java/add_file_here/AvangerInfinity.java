@@ -6,5 +6,7 @@ public class AvangerInfinity {
         System.out.println("Iron man");
 
         System.out.println("Spider-man");
+
+        System.out.println("Captain america");
     }
 }
