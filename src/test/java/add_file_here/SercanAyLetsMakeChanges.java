@@ -7,6 +7,6 @@ public class SercanAyLetsMakeChanges {
 
         System.out.println("lets add new changes while we are on branch US123");
     }
-    //lets more change
+    //lets make more change
 
 }
