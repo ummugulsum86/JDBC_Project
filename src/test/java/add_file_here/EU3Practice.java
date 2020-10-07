@@ -6,6 +6,6 @@ public class EU3Practice {
 
         //branch work without affecting master
 
-        //adding more changes
+        //adding more changes but again same line
     }
 }
