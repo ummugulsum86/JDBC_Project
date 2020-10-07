@@ -5,5 +5,7 @@ public class EU3Practice {
         System.out.println("Thanks");
 
         //branch work without affecting master
+
+        //adding more changes
     }
 }
