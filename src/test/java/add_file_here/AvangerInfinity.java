@@ -8,5 +8,7 @@ public class AvangerInfinity {
         System.out.println("Spider-man");
 
         System.out.println("Captain america");
+
+        System.out.println("Dr.Strange");
     }
 }
