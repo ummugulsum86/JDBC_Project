@@ -9,5 +9,14 @@ public class Avenger {
         //adding more info about Avengers
 
         //iron man hulk thor
+
+        //looks like we dont have much avenger fan?
+
+        //justice league fsn maybe?
+        //EU3 Justice league fan
+
+        //justice league fsn maybe?
+        //EU3 Justice league fan
+
     }
 }
