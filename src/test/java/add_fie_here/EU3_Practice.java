@@ -14,9 +14,10 @@ public class EU3_Practice {
         //to merge your change
 
         //we have added one new branch called us123
-        //to work on user story 123 withoud affecting master
+        //to work on user story 123 without affecting master
 
-        //adding more changis here so i can have more history
+        //adding more changes here so i can have more history
+
 
 
 
